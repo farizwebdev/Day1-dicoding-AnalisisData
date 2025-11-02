@@ -1,7 +1,7 @@
-# 🚲 Proyek Analisis Data: Bike Sharing
+# Proyek Analisis Data: Bike Sharing
 
 **by Fariz Husain Albar**  
-📸 *Follow Instagram: [@fariz.webdev](https://instagram.com/fariz.webdev)*
+*Follow Instagram: [@fariz.webdev](https://instagram.com/fariz.webdev)*
 
 ---
 
@@ -43,11 +43,13 @@ Kalau semua sudah siap, tinggal jalankan dashboard-nya ajaa:
 ```bash
 streamlit run dashboard/dashboard.py
 
+```
+
 ## 📊 Insight Menarik
 
 Beberapa hasil analisis yang ditemukan:
-- Musim **semi dan panas** adalah periode paling sibuk untuk penyewaan sepedaa  
-- Puncak aktivitas pengguna terjadi di **jam 07.00 dan 17.00** (waktu berangkat dan pulang kerja)  
+- Musim **semi dan panas** adalah periode paling sibuk untuk penyewaan sepedaa.  
+- Puncak aktivitas pengguna terjadi di **jam 07.00 dan 17.00** (waktu berangkat dan pulang kerja).  
 - **Suhu dan kelembapan** terbukti memengaruhi minat pengguna dalam menyewa sepeda.  
 
 ---

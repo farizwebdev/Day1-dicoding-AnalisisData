@@ -35,12 +35,11 @@ pip install numpy pandas scipy matplotlib seaborn jupyter
 
 # Install library tambahan untuk dashboard
 pip install streamlit babel
-
-## Menjalankan Dashboard Streamlit
 ```
 
 Kalau semua sudah siap, tinggal jalankan dashboard-nya ajaa:
 ```bash
+## Menjalankan Dashboard Streamlit
 streamlit run dashboard/dashboard.py
 ```
 

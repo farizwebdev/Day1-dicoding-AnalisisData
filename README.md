@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Deskripsi Proyek
+## Deskripsi Proyek
 
 Alloo semuanyaaaa!  
 Inii adalah proyek analisis data **Bike Sharing** yang saya kerjakan dalam rangka belajar analisis data dengan Python di Dicoding.  
@@ -43,7 +43,7 @@ Kalau semua sudah siap, tinggal jalankan dashboard-nya ajaa:
 streamlit run dashboard/dashboard.py
 ```
 
-## 📊 Insight Menarik
+## Insight Menarik
 
 Beberapa hasil analisis yang ditemukan:
 - Musim **semi dan panas** adalah periode paling sibuk untuk penyewaan sepedaa.  

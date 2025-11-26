@@ -57,4 +57,4 @@ Beberapa hasil analisis yang ditemukan:
 Halo, saya **Fariz Husain Albar** — penggemar data dan web developmentt  
 Saya suka mengubah data menjadi cerita yang bisa dipahami, baik lewat *dashboard interaktif* maupun *visualisasi data menarik*.  
   
-Terima kasih temenn temennnn sudah mampir, jangan lupa kasih ⭐ di repo ini kalau kamu suka proyeknyaaa yaahhh!
+Terima kasih temenn temennn sudah mampir, jangan lupa kasih ⭐ di repo ini kalau kamu suka proyeknyaaa yaahhh!

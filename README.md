@@ -7,7 +7,7 @@
 
 ## Deskripsi Proyek
 
-Alloo semuanyaaaa!  
+Halloo semuanyaaaa!  
 Inii adalah proyek analisis data **Bike Sharing** yang saya kerjakan dalam rangka belajar analisis data dengan Python di Dicoding.  
 Tujuan proyek ini adalah untuk mencari tahu **pola penyewaan sepeda**, **pengaruh faktor cuaca**, dan **perilaku pengguna sepeda** di berbagai musim dan jam.
 

@@ -1,4 +1,4 @@
-# Proyek Dicoding Analisis Data: Bike Sharing
+# Proyek Dicoding Analisis Data: Bike Sharin
 
 **by Fariz Husain Albar**  
 *Follow Instagram: [@fariz.webdev](https://instagram.com/fariz.webdev)*

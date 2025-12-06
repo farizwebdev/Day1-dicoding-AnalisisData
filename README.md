@@ -5,7 +5,7 @@
 
 ---
 
-## Deskripsi Proyek
+## Deskripsi
 
 Halloo semuanyaaaa!  
 Ini adalah proyek analisis data **Bike Sharing** yang saya kerjakan dalam rangka belajar analisis data dengan Python di Dicoding.  

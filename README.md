@@ -11,7 +11,7 @@ Halloo semuanyaaaa!
 Inii adalah proyek analisis data **Bike Sharing** yang saya kerjakan dalam rangka belajar analisis data dengan Python di Dicoding.  
 Tujuan proyek ini adalah untuk mencari tahu **pola penyewaan sepeda**, **pengaruh faktor cuaca**, dan **perilaku pengguna sepeda** di berbagai musim dan jam.
 
-Beberapa hal yang saya analisis:
+Beberapa  yang saya analisis:
 - 📈 Tren penyewaan sepeda per musim  
 - 🌦️ Pengaruh suhu, cuaca, dan kelembapan terhadap jumlah penyewaan  
 - 📅 Perbandingan penggunaan antara hari kerja dan akhir pekan  

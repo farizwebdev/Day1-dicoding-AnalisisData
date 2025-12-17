@@ -20,7 +20,7 @@ Beberapa hal yang saya analisis:
 
 ## Setup Environment
 
-Pastikan kamu sudah menginstall **Miniconda / Anaconda** terlebih dahulu yaa owkaii owkaii??  
+Pastikan kamu sudah menginstall **Miniconda / Anaconda** terlebih dahulu yaa owkai owkaii??  
 Setelah itu, jalankan langkah-langkah berikut di **Anaconda Prompt** 👇
 
 ```bash
